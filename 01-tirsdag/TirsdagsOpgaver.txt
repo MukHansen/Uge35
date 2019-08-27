@@ -6,8 +6,11 @@ Svar: 10.50.130.65(Skole)
 
 -What’s special about these address ranges?
 	10.0.0.0 – 10.255.255.255
-	172.16.0.0 – 172.31.255.255 
+Svar:
+	172.16.0.0 – 172.31.255.255
+Svar:
 	192.168.0.0 – 192.168.255.255
+Svar:
 
 -What’s special about this ip-address: 127.0.0.1?
 
