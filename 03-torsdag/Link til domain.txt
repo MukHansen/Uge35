@@ -1,1 +1,4 @@
-https://www.mukh.dk/
+https://www.mukh.dk/       -- Virker
+https://www.mukh.dk/8080:  -- Virker ikke
+
+https://www.ssllabs.com/ssltest/ --- hvis du ønsker at teste

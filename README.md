@@ -1,1 +1,1 @@
-Onsdags opgaverner er færdige.
+I tirsdags og onsdags folderen ligger en tekst fil til besvarelse af opgaver, i onsdags folderen ligger også et tilhørende netbeans projekt, i torsdags folderen ligger et link til mit domæne -- https://www.mukh.dk/
